@@ -1,8 +1,8 @@
-\# 🚦🚦🚦     Road Accident Analysis Dashboard (2021–2022)   🚦🚦🚦
+# 🚦🚦🚦     Road Accident Analysis Dashboard (2021–2022)   🚦🚦🚦
 
 
 
-\##  Project Overview
+##  Project Overview
 
 
 
@@ -24,35 +24,35 @@ The dataset is stored in an Excel file (.xlsx) format.
 
 
 
-\## 📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 
 
 
-\### 🔹 Primary KPIs
+### 🔹 Primary KPIs
 
 
 
-\- Total Casualties
+- Total Casualties
 
-\- Casualties by Accident Severity (Fatal, Serious, Slight)
+- Casualties by Accident Severity (Fatal, Serious, Slight)
 
-\- Maximum Casualties by Vehicle Type
-
-
-
-\### 🔹 Secondary KPIs
+- Maximum Casualties by Vehicle Type
 
 
 
-\- Casualties by Vehicle Type
+### 🔹 Secondary KPIs
 
-\- Monthly Trend Comparison (Year-over-Year)
 
-\- Maximum Casualties by Road Type
 
-\- Distribution of Casualties by Road Surface
+- Casualties by Vehicle Type
 
-\- Casualties by Area and Time (Day/Night)
+- Monthly Trend Comparison (Year-over-Year)
+
+- Maximum Casualties by Road Type
+
+- Distribution of Casualties by Road Surface
+
+- Casualties by Area and Time (Day/Night)
 
 
 
@@ -60,7 +60,7 @@ The dataset is stored in an Excel file (.xlsx) format.
 
 
 
-\##  Stakeholders
+##  Stakeholders
 
 
 
@@ -68,39 +68,19 @@ This dashboard provides insights for:
 
 
 
-\- Ministry of Transport
+- Ministry of Transport
 
-\- Road Transport Department
+- Road Transport Department
 
-\- Police Force
+- Police Force
 
-\- Emergency Services
+- Emergency Services
 
-\- Road Safety Authorities
+- Road Safety Authorities
 
-\- Traffic Management Agencies
+- Traffic Management Agencies
 
-\- Public \& Media
-
-
-
----
-
-
-
-\##  Tools Used
-
-
-
-\- Microsoft Excel
-
-\- Data Cleaning
-
-\- Pivot Tables
-
-\- Data Visualization
-
-\- Dashboard Design
+- Public & Media
 
 
 
@@ -108,11 +88,19 @@ This dashboard provides insights for:
 
 
 
-\##  Dashboard Preview
+##  Tools Used
 
 
 
-!\[Dashboard Screenshot](dashboard\_screenshot.png)
+- Microsoft Excel
+
+- Data Cleaning
+
+- Pivot Tables
+
+- Data Visualization
+
+- Dashboard Design
 
 
 
@@ -120,15 +108,28 @@ This dashboard provides insights for:
 
 
 
-\##  Project Goal
+##  Dashboard Preview
+
+
+
+!\[Dashboard Screenshot](dashboard_screenshot.png)
+
+
+
+---
+
+
+
+##  Project Goal
 
 
 
 The goal of this project is to support data-driven decision-making by identifying high-risk areas, vehicle categories, and road conditions associated with road accidents.
 
-\## excel file link 
+## excel file link 
 
-\[Download the Excel file](https://drive.google.com/drive/u/0/folders/19ywTQERQccD7dSptIBTgvOuNiOB\_w3JS)
+[Download the Excel file](https://drive.google.com/drive/u/0/folders/19ywTQERQccD7dSptIBTgvOuNiOB\_w3JS)
+
 
 
 
