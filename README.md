@@ -112,7 +112,7 @@ This dashboard provides insights for:
 
 
 
-!\[Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 
 
@@ -129,6 +129,7 @@ The goal of this project is to support data-driven decision-making by identifyin
 ## Excel file link 
 
 [Download the Excel file](https://drive.google.com/drive/u/0/folders/19ywTQERQccD7dSptIBTgvOuNiOB\_w3JS)
+
 
 
 
